@@ -1,4 +1,4 @@
-const org = {
+const orgs = {
 	red: {
 		name: 'Red Language',
 		url: 'https://www.red-lang.org/',
